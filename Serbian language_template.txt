@@ -1,0 +1,33 @@
+LOGIN_WELCM1 - Uspesno ste se ulogovali, (name)
+
+LOGIN_WELCM2 - Dobrodosli na Argonath RPG RS5
+LOGIN_MFERR1 - Verifikaciona usluga je ugasena, molimo pokusajte kasnije.
+
+LOGIN_MFERR2 - Greska: kod je pogreasan!
+LOGIN_MF1    -  sorry dont know this one :(
+LOGIN_PASSER1-  Greska: Sifre se ne poklapaju! pazite na velika slova!
+LOGIN_PASSER2- Greska: Uneli ste pogresnu sifru.
+LOGIN_PASS2  - Molim vas ponovite sifru koju ste izbrali.
+LOGIN_QUIT   - Jeste sigurni da zelite da izadjete sa servera?
+LOGIN_ADULT  - Upozorenje! Ovaj server sadrzi elemente koji nisu pogodni za decu.
+LOGIN_BYE1   - Izabrali ste da izadjete sa servera.
+ERROR_NOTLOG - Greska: Niste se ulogovali.
+ERROR_KICK   - Greska: ne mozete sad da iskoristite ovu komandu.
+ECON_RELOAD  - [UPOZORENJE] Vasi ekonomski podaci se ponovo lodiraju, niste u mogucnosti da koristite ekonomske usluge.
+TXT_Login0   -Dobrodosli na Argonath RPG
+TXT_Login1   -Svet poseban za sebe
+CMD_TIME     -Vreme uzivo je {Time} (CET - Central European Time).
+CMD_TD       -Vreme po serveru je {time}(CET - Central European Time), datum je  {
+CMD_DATE     -Datum je {date}
+MONTH_1      -Januar
+MONTH_2      -Februar
+MONTH_3      -Mart
+MONTH_4      -April
+MONTH_5      -Maj
+MONTH_6      -Jun
+MONTH_7      -Jul
+MONTH_8      -Avgust
+MONTH_9      -Septembar
+MONTH_10     -Oktobar
+MONTH_11     -Novembar
+MONTH_12     -Decembar
